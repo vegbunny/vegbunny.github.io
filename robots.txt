@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https:/vegbunny.mlitemap.xml
+Disallow: /ghost/
+Disallow: /p/
