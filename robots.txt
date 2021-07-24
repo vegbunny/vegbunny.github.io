@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://vegbunny.ml/sitemap.xml
+Sitemap: vegbunny.ml/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
